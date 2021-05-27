@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>沉默圣骑士</title>
+  
+  
+  <link href="http://cumerzhang.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://cumerzhang.github.io/"/>
+  <updated>2021-05-27T19:08:41.898Z</updated>
+  <id>http://cumerzhang.github.io/</id>
+  
+  <author>
+    <name>CumerZhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LaTex常用符号</title>
+    <link href="http://cumerzhang.github.io/2021/05/28/latex-chang-yong-fu-hao/"/>
+    <id>http://cumerzhang.github.io/2021/05/28/latex-chang-yong-fu-hao/</id>
+    <published>2021-05-27T16:00:00.000Z</published>
+    <updated>2021-05-27T19:08:41.898Z</updated>
+    
+    
+    <summary type="html">常见和非常见的数学符号与LaTex代码之间对应关系</summary>
+    
+    
+    
+    <category term="数学" scheme="http://cumerzhang.github.io/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+    <category term="LaTex" scheme="http://cumerzhang.github.io/tags/LaTex/"/>
+    
+    <category term="数学" scheme="http://cumerzhang.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="数学符号" scheme="http://cumerzhang.github.io/tags/%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7/"/>
+    
+  </entry>
+  
+</feed>
