@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Hexo更新方法</title>
+      <link href="2021/05/28/hexo-bo-ke-geng-xin/"/>
+      <url>2021/05/28/hexo-bo-ke-geng-xin/</url>
+      
+        <content type="html"><![CDATA[<h1 id="hexo更新方法"><a href="#hexo更新方法" class="headerlink" title="hexo更新方法"></a>hexo更新方法</h1><blockquote><p>查看当前hexo版本</p></blockquote><pre class="line-numbers language-none"><code class="language-none">hexo version<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>如果提示错误，把当前目录的<code>node_modules/.bin</code>添加到环境变量中去，再执行查看版本</p><blockquote><p>升级hexo</p></blockquote><pre class="line-numbers language-none"><code class="language-none">npm i hexo-cli -g<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>升级完成后查看版本，是否更新成功</p><blockquote><p>检查系统中的插件是否有升级的</p></blockquote><pre class="line-numbers language-none"><code class="language-none">npm install -g npm-checknpm-check<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><blockquote><p>升级插件</p></blockquote><pre class="line-numbers language-none"><code class="language-none">npm install -g npm-upgradenpm-upgrade<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><pre class="line-numbers language-none"><code class="language-none">npm update -gnpm update --save<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><blockquote><p>生成静态网页</p></blockquote><pre class="line-numbers language-none"><code class="language-none">hexo g<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><blockquote><p>上传/发布</p></blockquote><pre class="line-numbers language-none"><code class="language-none">hexo d<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><blockquote><p>本地服务启动hexo</p></blockquote><pre class="line-numbers language-none"><code class="language-none">hexo s -p 8888<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>LaTex常用符号</title>
       <link href="2021/05/28/latex-chang-yong-fu-hao/"/>
       <url>2021/05/28/latex-chang-yong-fu-hao/</url>
