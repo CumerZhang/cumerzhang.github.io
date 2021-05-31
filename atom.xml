@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>沉默圣骑士</title>
+  <title>沉默圣骑士的博客</title>
   
   
   <link href="http://cumerzhang.github.io/atom.xml" rel="self"/>
   
   <link href="http://cumerzhang.github.io/"/>
-  <updated>2021-05-28T08:56:34.598Z</updated>
+  <updated>2021-05-31T03:32:18.235Z</updated>
   <id>http://cumerzhang.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>MathType7无限试用</title>
+    <link href="http://cumerzhang.github.io/2021/05/29/mathtype7-wu-xian-shi-yong/"/>
+    <id>http://cumerzhang.github.io/2021/05/29/mathtype7-wu-xian-shi-yong/</id>
+    <published>2021-05-29T05:00:00.000Z</published>
+    <updated>2021-05-31T03:32:18.235Z</updated>
+    
+    
+    <summary type="html">MathType7大大延长试用时间</summary>
+    
+    
+    
+    <category term="软件" scheme="http://cumerzhang.github.io/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="LaTex" scheme="http://cumerzhang.github.io/tags/LaTex/"/>
+    
+    <category term="数学符号" scheme="http://cumerzhang.github.io/tags/%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7/"/>
+    
+    <category term="MathType" scheme="http://cumerzhang.github.io/tags/MathType/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo更新方法</title>
     <link href="http://cumerzhang.github.io/2021/05/28/hexo-bo-ke-geng-xin/"/>
     <id>http://cumerzhang.github.io/2021/05/28/hexo-bo-ke-geng-xin/</id>
     <published>2021-05-28T08:51:00.000Z</published>
-    <updated>2021-05-28T08:56:34.598Z</updated>
+    <updated>2021-05-28T13:10:39.312Z</updated>
     
     
     <summary type="html">Hexo更新方法</summary>
@@ -40,7 +63,7 @@
     <link href="http://cumerzhang.github.io/2021/05/28/latex-chang-yong-fu-hao/"/>
     <id>http://cumerzhang.github.io/2021/05/28/latex-chang-yong-fu-hao/</id>
     <published>2021-05-27T18:19:00.000Z</published>
-    <updated>2021-05-27T20:47:04.248Z</updated>
+    <updated>2021-05-31T03:31:41.752Z</updated>
     
     
     <summary type="html">常见和非常见的数学符号与LaTex代码之间对应关系</summary>
